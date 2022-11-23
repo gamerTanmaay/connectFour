@@ -2,6 +2,6 @@
 OOP IA 2 Project
 
 Created by:-
-  Tanmaay Dhanawade
-  Prathamesh Bagal
-  Arya Ghadi
+ \nTanmaay Dhanawade
+  \nPrathamesh Bagal
+  \nArya Ghadi
