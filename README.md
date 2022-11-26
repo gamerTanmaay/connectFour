@@ -1,4 +1,4 @@
-# connect_four
+# connectFour
 OOP IA 2 Project
 
 Created by:-
